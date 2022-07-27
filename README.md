@@ -1,10 +1,10 @@
 # **basesJavaScript**
 
-**- Array  **
-**- Ciclos  **
-**- Condicionales  **
-**- Funciones  **
-**- Objectos  **
-**- Promt  **
-**- Reduccion de codigo  **
-**- Variables  **
+- Array
+- Ciclos
+- Condicionales
+- Funciones 
+- Objectos
+- Promt 
+- Reduccion de codigo 
+- Variables 
